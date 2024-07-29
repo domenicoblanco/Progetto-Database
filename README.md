@@ -9,5 +9,5 @@ Sviluppo di un sistema per la gestione di una flotta di veicoli
 - Monitoraggio del carburante
 - Monitoraggio delle manutenzioni
 
-![Diagramma ER](Diagramma ER Finale.png)
-![Schema fisico](Schema fisico.png)
+![Diagramma ER](Diagramma%20ER%20finale.png)
+![Schema fisico](Schema%20fisico.png)
